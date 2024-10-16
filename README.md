@@ -32,7 +32,6 @@ It includes:
    - Several predictive models are explored:
      - **Linear Regression**: Used to estimate the overall trend.
      - **Logarithmic Transformations**: Applied to better understand exponential growth in prices.
-     - **Time Series Models**: ARIMA, SARIMA, and Prophet models are applied to forecast future prices based on past trends.
      - **Power Law Trend**: A model similar to what is seen in Bitbo (or other cryptocurrency forecasting platforms) is used to fit Bitcoin's price trajectory.
 
 4. **Evaluation**:
